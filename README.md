@@ -1,5 +1,5 @@
 ### This  project was  created as part of the Udacity React Course in the React Nano Degree.
-### it is a todo App create using React and Redux
+### This is a todo App create using React and Redux
 
 ## Project Setup
 
